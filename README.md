@@ -40,3 +40,8 @@ Start your journey by exploring a variety of content:
 
 
 Start your journey with Tourist Guide and explore the world like never before. Happy travels!
+
+
+  <h2>Feedback</h2>
+    <p>If you have any feedback or suggestions, I would love to hear from you. Please contact me at:</p>
+    <p><strong>Email</strong>: <a href="mailto:mohannadnasar99@gmail.com">mohannadnasar99@gmail.com</a></p>
